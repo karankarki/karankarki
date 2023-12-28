@@ -13,6 +13,11 @@
 
 - 📄 Know about my experiences [resume.link](resume.link)
 
+ <br>
+
+ - <h2 align="left">  Projects </h2>
+ 👾 random password genrator ->  <a href="https://karankarki.github.io/Password_genrator/">Click to Visit</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-singh-karki-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-singh-karki-/" height="30" width="40" /></a>
