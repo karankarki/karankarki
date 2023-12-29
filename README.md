@@ -19,11 +19,13 @@
 
 
  - <h2 align="left">  Projects </h2>
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarki&show_icons=true&locale=en&layout=compact" alt="karankarki" /></p>
  👾 random password genrator ->  <a href="https://karankarki.github.io/Password_genrator/">Click to Visit</a><br><br>
  👾 Playing with text->  <a href="https://karankarki.github.io/Text_WEb_Reactjs/">Click to Visit</a><br><br>
  👾 Demo Portfolio->  <a href="https://beastinweb.netlify.app/#Home">Click to Visit</a><br><br>
  
  
+
  <hr>
   <hr>
  
@@ -43,6 +45,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarki&show_icons=true&locale=en&layout=compact" alt="karankarki" /></p>
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
