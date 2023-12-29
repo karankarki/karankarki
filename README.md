@@ -20,7 +20,7 @@
 
  - <h2 align="left">  Projects </h2>
  <br>
- <p><img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarki&show_icons=true&locale=en&layout=compact" alt="karankarki" /></p>
+ <p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarki&show_icons=true&locale=en&layout=compact" alt="karankarki" /></p>
  <br>
  👾 random password genrator ->  <a href="https://karankarki.github.io/Password_genrator/">Click to Visit</a><br><br>
  👾 Playing with text->  <a href="https://karankarki.github.io/Text_WEb_Reactjs/">Click to Visit</a><br><br>
@@ -35,7 +35,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" width="200" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-singh-karki-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-singh-karki-/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/karansinghkarki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/karansinghkarki/" height="30" width="40" /></a>
