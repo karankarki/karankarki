@@ -45,6 +45,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarki&show_icons=true&locale=en&layout=compact" alt="karankarki" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karankarki&show_icons=true&locale=en" alt="karankarki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karankarki&" alt="karankarki" /></p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
