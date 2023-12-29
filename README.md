@@ -19,7 +19,7 @@
 
 
  - <h2 align="left">  Projects </h2>
- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarki&show_icons=true&locale=en&layout=compact" alt="karankarki" /></p>
+ <p><img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarki&show_icons=true&locale=en&layout=compact" alt="karankarki" /></p>
  👾 random password genrator ->  <a href="https://karankarki.github.io/Password_genrator/">Click to Visit</a><br><br>
  👾 Playing with text->  <a href="https://karankarki.github.io/Text_WEb_Reactjs/">Click to Visit</a><br><br>
  👾 Demo Portfolio->  <a href="https://beastinweb.netlify.app/#Home">Click to Visit</a><br><br>
