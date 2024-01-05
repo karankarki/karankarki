@@ -25,6 +25,7 @@
  👾 random password genrator ->  <a href="https://karankarki.github.io/Password_genrator/">Click to Visit</a><br><br>
  👾 Playing with text->  <a href="https://karankarki.github.io/Text_WEb_Reactjs/">Click to Visit</a><br><br>
  👾 Demo Portfolio->  <a href="https://beastinweb.netlify.app/#Home">Click to Visit</a><br><br>
+ 👾 Wheather app->  <a href="https://beastweatherapp.netlify.app/">Click to Visit</a><br><br>
  
  
 
