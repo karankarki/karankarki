@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm karan singh karki</h1>
+<h1 align="center">Hi 👋, I'm <span>karan singh karki<span></h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" alt="Coding">
 
