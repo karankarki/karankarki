@@ -22,10 +22,10 @@
  <br>
  <p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarki&show_icons=true&locale=en&layout=compact" alt="karankarki" /></p>
  <br>
- 👾 random password genrator ->  <a href="https://karankarki.github.io/Password_genrator/">Click to Visit</a><br><br>
- 👾 Playing with text->  <a href="https://karankarki.github.io/Text_WEb_Reactjs/">Click to Visit</a><br><br>
- 👾 Demo Portfolio->  <a href="https://beastinweb.netlify.app/#Home">Click to Visit</a><br><br>
- 👾 Wheather app->  <a href="https://beastweatherapp.netlify.app/">Click to Visit</a><br><br>
+ 👾 random password genrator Using REACT->  <a href="https://karankarki.github.io/Password_genrator/">Click to Visit</a><br><br>
+ 👾 Playing with text Using plane html css js->  <a href="https://karankarki.github.io/Text_WEb_Reactjs/">Click to Visit</a><br><br>
+ 👾 Demo Portfolio Using REACT->  <a href="https://beastinweb.netlify.app/#Home">Click to Visit</a><br><br>
+ 👾 Wheather app using React->  <a href="https://beastweatherapp.netlify.app/">Click to Visit</a><br><br>
  
  
 
