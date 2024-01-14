@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karansinghkarki00@gmail.com**
 
-- 📄 Know about my experiences [resume.link](resume.link)
+- 📄 Know About me [resume.link](resume.link)
 
  <br>
  <hr>
