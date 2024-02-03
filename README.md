@@ -53,7 +53,7 @@
 <hr>
 <hr>
 
-<div align="center">z
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
 </div>
