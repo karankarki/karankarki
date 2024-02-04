@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React , nodejs**
 
 - 👨‍💻 All of my projects are available at [beastinweb.netlify.app](beastinweb.netlify.app)
-
+- 
 - 📫 How to reach me **karansinghkarki00@gmail.com**
 
 - 📄 Know About me [resume.link](resume.link)
