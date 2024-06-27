@@ -5,13 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karankarki&label=Profile%20views&color=0e75b6&style=flat" alt="karankarki" /> </p>
 
 
-- 🌱 I’m currently learning **React , nodejs**
 
-- 👨‍💻 All of my projects are available at [beastinweb.netlify.app](beastinweb.netlify.app)
+- 👨‍💻 Here is my personal website [beastinweb.netlify.app](beastinweb.netlify.app)
 - 
 - 📫 How to reach me **karansinghkarki00@gmail.com**
 
-- 📄 Know About me [resume.link](resume.link)
+- 📄 Know About me [resume.link](resume.link) or by the website mentioned above
 
  <br>
  <hr>
@@ -22,6 +21,13 @@
  <br>
  <p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=karankarki&show_icons=true&locale=en&layout=compact" alt="karankarki" /></p>
  <br>
+ 👾 WildLife Monitoring System (React, Tensorflow)->  <a href="https://wildeye.netlify.app/">Click to Visit</a><br><br>
+ 👾 News portal , having more then 30k monthly views (React, Tensorflow)->  <a href="https://kurmanchalakhbar.com/">Click to Visit</a><br><br>
+ 
+
+
+
+  - <h3 align="left">Basic  Projects </h3>
  👾 random password genrator Using REACT->  <a href="https://karankarki.github.io/Password_genrator/">Click to Visit</a><br><br>
  👾 Playing with text Using plane html css js->  <a href="https://karankarki.github.io/Text_WEb_Reactjs/">Click to Visit</a><br><br>
  👾 Demo Portfolio Using REACT->  <a href="https://beastinweb.netlify.app/#Home">Click to Visit</a><br><br>
