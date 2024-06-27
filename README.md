@@ -7,7 +7,7 @@
 
 
 - 👨‍💻 Here is my personal website [beastinweb.netlify.app](beastinweb.netlify.app)
-- 
+
 - 📫 How to reach me **karansinghkarki00@gmail.com**
 
 - 📄 Know About me [resume.link](resume.link) or by the website mentioned above
@@ -23,6 +23,8 @@
  <br>
  👾 WildLife Monitoring System (React, Tensorflow)->  <a href="https://wildeye.netlify.app/">Click to Visit</a><br><br>
  👾 News portal , having more then 30k monthly views (React, Tensorflow)->  <a href="https://kurmanchalakhbar.com/">Click to Visit</a><br><br>
+  👾 For more projects visit my Repo-
+ 
  
 
 
