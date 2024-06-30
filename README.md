@@ -43,7 +43,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" alt="Coding">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR5d2RzNWM4NGx6ZGl2MGF4aWtxMzdleDc0YmF4cGZra2prYjRqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif" width="350" alt="Coding">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-singh-karki-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-singh-karki-/" height="30" width="40" /></a>
 <a href="https://leetcode.com/karanSinghkarki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/karansinghkarki/" height="30" width="40" /></a>
