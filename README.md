@@ -23,6 +23,7 @@
  <br>
  👾 WildLife Monitoring System (React, Tensorflow)->  <a href="https://wildeye.netlify.app/">Click to Visit</a><br><br>
  👾 News portal , having more then 30k monthly views (React, Tensorflow)->  <a href="https://kurmanchalakhbar.com/">Click to Visit</a><br><br>
+ 👾 MERN chat appliation->  <a href="https://talknice.vercel.app/">Click to Visit</a><br><br>
   👾 For more projects visit my Repo-
  
  
